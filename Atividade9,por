@@ -36,6 +36,10 @@ programa
 		 se(escaleno == falso e equilatero == falso){
 		 isosceles = verdadeiro
 		 escreva("É um triangulo isosceles")
+
+		
+
+		
 	}
 }
 
